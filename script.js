@@ -138,9 +138,9 @@ botoesProdCarrinho.forEach(botao => {
 
     // Produtos
     const produtos = [
-        { nome: 'Suporte Banheiro Porta Toalha Toalheiro De Banho Duplo 90° Adesivo Sem Furo Premium', preco: 79.90, imagem: 'Files/chuveiro1.png', nota:'5',marca:'Lorenzetti', tamanho:'150x200x300mm', material:'plastico', sobre:'Acabamento/acionamento do tipo alavanca em metal cromado', imagem2:'Files/SuporteToalha.png', imagem3:'Files/Torneira.png', imagem4:'Files/SuporteToalha.png'},
+        { nome: 'Produto 1', preço 2.388,40 imagem: 'file/Smart1.png' , Smart TV 50" UHD 4K Samsung 50CU7700, Processador Crystal 4K, Samsung Gaming Hub, Visual Livre de Cabos, Tela sem limites, Alexa built in', preco: 2.338,40 imagem: 'file/Smart1.png', nota:'5',marca:'Lorenzetti', tamanho:'150x200x300mm', material:'plastico', sobre:'Acabamento/acionamento do tipo alavanca em metal cromado', imagem2:'file/Smart.png', imagem3:'file/Smart.png', imagem4:'file/Smart.png'},
         
-        { nome: 'Produto 2', preco: 25.00, imagem: 'Files/chuveiro1.png' , nota:'3',marca:'Lorenzetti', tamanho:'150x200x300mm', material:'plastico', sobre:'Acabamento/acionamento do tipo alavanca em metal cromado', imagem2:'Files/SuporteToalha.png', imagem3:'Files/Torneira.png', imagem4:'Files/SuporteToalha.png'},
+        { nome: 'Produto 2', preco: 1.999,00 imagem: 'Files/Smart431.png' , nota:'5',marca:'Samsung', tamanho:'150x200x300mm', material:'plastico', sobre:'Smart TV 43" UHD 4K Samsung 43CU7700, Processador Crystal 4K, Samsung Gaming Hub, Visual Livre de Cabos, Tela sem limites, Alexa built in', imagem2:'Files/Smart43.png', imagem3:'Files/smart43.png', imagem4:'Files/Smart43.png'},
         
         { nome: 'Produto 3', preco: 22.00, imagem: 'Files/chuveiro1.png' , nota:'3',marca:'Lorenzetti', tamanho:'150x200x300mm', material:'plastico', sobre:'Acabamento/acionamento do tipo alavanca em metal cromado', imagem2:'Files/SuporteToalha.png', imagem3:'Files/Torneira.png', imagem4:'Files/SuporteToalha.png'},
 
